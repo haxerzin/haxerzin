@@ -1,0 +1,1 @@
+<a rel="me" href="https://infosec.exchange/@haxerzin">Connect via Mastodon!</a>
