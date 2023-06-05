@@ -1,5 +1,5 @@
-<p style="font-size:3.5rem;letter-spacing:10px;">GIT REKT</p>
-<br><br>
+<p style="font-size:3.5rem;font-weight:900;letter-spacing:0.1em;">GIT REKT</p>
+
+<br>
+
 ![](https://haxerz.in/assets/images/gitrekt.gif)
-
-
