@@ -1,4 +1,4 @@
-<p style="font-size:1.5rem;">GIT REKT</p>
+<p style="font-size:3.5rem;font-weight:bold;">GIT REKT</p>
 <br><br>
 ![](https://haxerz.in/assets/images/gitrekt.gif)
 
